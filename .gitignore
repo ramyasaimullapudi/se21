@@ -1,1 +1,10 @@
+# extensions
+*.so
+*.log
+*.a
+*.o
 
+
+# Environments
+.env
+.venv
