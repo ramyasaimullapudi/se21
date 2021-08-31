@@ -1,6 +1,6 @@
  import unittest
  
- from hello import hello
+ from hello import cuboid
  class TestCuboid(unittest.TestCase):
     def test_volume(self):
         self.assertAlmostEqual(cuboid(2),8)
