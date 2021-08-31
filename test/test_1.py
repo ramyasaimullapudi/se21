@@ -1,5 +1,9 @@
-def inc(x):
-    return x + 2
-
-def test_answer():
-    assert inc(3) == 5
+ import unittest
+ 
+ from __init__ import __init__
+ class TestCuboid(unittest.TestCase):
+    def test_volume(self):
+        self.assertAlmostEqual(cuboid_volume(2),8)
+        self.assertAlmostEqual(cuboid_volume(1),1)
+        self.assertAlmostEqual(cuboid_volume(0),0)
+        self.assertAlmostEqual(cuboid_volume(5.5),166.375)
