@@ -1,7 +1,5 @@
-# content of __init__.py
+def inc(x):
+    return x + 1
 
-def square(x):
-    return x * x
-
-def cuboid_volume(y):
-    return (y*y*y)
+def test_answer():
+    assert inc(3) == 5
