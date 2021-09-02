@@ -17,5 +17,12 @@ This a very basic repository which is performs the following functions:
 * Adds two numbers
 * Subtracts two numbers 
 
+---
 
+# Team Members
 
+* Rohan Prabhune
+* Swetha Gavini
+* Arjun Madhusudan
+* Ramya Sai Mullapudi
+* Krisha Saurabh
