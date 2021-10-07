@@ -21,8 +21,8 @@ This a very basic repository which is performs the following functions:
 
 # Team Members
 
-* Rohan Prabhune
 * Swetha Gavini
 * Arjun Madhusudan
 * Ramya Sai Mullapudi
 * Krisha Saurabh
+* Rohan Prabhune
